@@ -1,4 +1,9 @@
-console.log(age)
-console.log(nombre)
+let age = 5
+let firstname = "sebastian"
+let lastname = "mora"
+let isStudent = false
+let gender = "male"
+let city 
+let country= null
 
-var nombre= 'carlos'
+console.log (typeof age)

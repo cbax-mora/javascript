@@ -12,3 +12,7 @@ if(gender=="male"){
 }
 
 console.log(`bienvenido ${firstname} ${lastname} su genero es: ${gender} y tiene ${age} años`);
+
+
+
+

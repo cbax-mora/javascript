@@ -8,4 +8,4 @@ numeros.pop()
 console.log(numeros)
 
 numeros.unshift(10)
-console.log(numeros.includes(10))
+console.log(numeros.includes(10))     
